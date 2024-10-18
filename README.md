@@ -26,6 +26,7 @@ I'm a full-stack developer with a knack for crafting dynamic and immersive web e
 - **🗃️ Database Wizardry:** With MongoDB, I manipulate data landscapes, ensuring swift, secure, and scalable data operations.
 - **📦 Container Maestro:** With Docker, I encapsulate application ecosystems, guaranteeing consistency and smooth sailing from development to production.
 - **⚡ Cache and Conquer:** Leveraging Redis, I supercharge applications with high-speed caching and efficient message brokering.
+- **🔄 Event Stream Enthusiast:** With Kafka, I handle high-throughput, distributed messaging and real-time event streaming, enabling smooth data flow across microservices and large-scale systems.
 
 ## 🤝 Let's Connect
 Whether it's hacking on open-source projects 🌐 or brainstorming the next big startup 💡, I'm on the lookout for innovative collaborations and mind-blowing tech talks. If you're passionate about building the future, let's sync up!
